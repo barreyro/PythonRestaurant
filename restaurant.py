@@ -1,0 +1,2 @@
+# Create a menu using a dictionary
+restaurant_menu = {'Potatoes w/ caviar':24.50, '10 Mushroom Soup':15.50, 'Black Sea Bass':37.99, 'Maine Lobster':59.50, 'Chocolate Sorbet':9.41, 'Grapefruit Granite':10.99}
